@@ -2,7 +2,7 @@
 name: Algorithm
 about: 알고리즘 문제를 해결합니다.
 title: "[Algorithm] "
-labels: ''
+labels: Algorithm
 assignees: ''
 
 ---
